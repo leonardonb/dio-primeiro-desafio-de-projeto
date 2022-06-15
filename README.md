@@ -8,6 +8,13 @@ Nesse desafio, pretendo apenas criar alguns arquivos que versam um pouco sobre m
 - Lista de funcionários e Nomes que fazem parte do Conselho
 - Lista de pendências
 
+### Passo-a-passo
+
+1. Criar o repositório no github;
+2. Clonar o repositório para meu ambiente de trabalho local pelo Git;
+3. Criar os arquivos locais e fazer a inclusão de informações em Markdown, usando o VS Code, _já que o Markdown é pago e ainda em dólar_;
+4. Subir o repositório para o github através do git;
+5. Finalizar o desafio.
 
 ### Referências
 
